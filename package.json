@@ -65,7 +65,7 @@
     "newrelic": "^6.13.2",
     "next": "^11.0.0",
     "node-fetch": "^2.6.1",
-    "node-sass": "^6.0.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^7.0.0",
     "p-queue": "^3.0.0",
     "package-build-stats": "7.2.4",
